@@ -13,9 +13,10 @@ This repository contains the source code for the paper “Point Cloud Completion
 
 #### 1) Envrionment & prerequisites
 
-- Pytorch 1.4.0
 - CUDA 10.0
 - Python 3.7
+- Pytorch 1.4.0
+- Pytorch-lightning 1.3.8
 
 #### 2) Compile
 

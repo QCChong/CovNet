@@ -37,12 +37,12 @@ Compile our extension modules:
     bash get_dataset.sh
 ```
 
-#### 4) Train or validat
+#### 4) Train or validation. 
 ```bash
     # 1. train the model
     python train.py 
     
-    # 2. validate the model
+    # 2. validate the model, The pretrained model is [here](https://drive.google.com/file/d/1fgLk4ueRjanDFRjZDo3BAAoFDtKdJ9E9/view?usp=sharing).Download them here, and unzip it under logs/.
     python evalution.py
 ```
 

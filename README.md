@@ -38,11 +38,11 @@ Compile our extension modules:
 ```
 
 #### 4) Train or validation. 
-# 1. train the model
+1. train the model
 ```bash
     python train.py 
 ```
-# 2. validate the model, The pretrained model is [here](https://drive.google.com/file/d/1fgLk4ueRjanDFRjZDo3BAAoFDtKdJ9E9/view?usp=sharing).Download them here, and unzip it under logs/.
+2. validate the model, The pretrained model is [here](https://drive.google.com/file/d/1fgLk4ueRjanDFRjZDo3BAAoFDtKdJ9E9/view?usp=sharing).Download them here, and unzip it under logs/.
 ```bash
     python evalution.py
 ```
